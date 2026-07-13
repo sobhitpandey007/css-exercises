@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+.odd{
+   background-color: lightpink;
+   font-family: Verdana, "DejaVu Sans", sans-serif;
+}  
+
+#second{
+    color: blue;
+    font-size:36px;
+}
+
+.odd.cooler{
+    
+    font-size:16px;
+}
+
+#forth{
+    font-size: 24px;
+    background-color:lightgreen;
+    font-weight:bold;
+}
